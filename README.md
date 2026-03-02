@@ -1,3 +1,1 @@
-Testing webhook live update for the second time .
-Testing webhook live update now for the Mongo DB Atlas .
-Final Check
+This repo triggers GitHub webhook events.
